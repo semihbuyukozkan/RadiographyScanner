@@ -34,6 +34,6 @@ The dataset used in this project is the COVID-19 Radiography Database, which con
    git clone https://github.com/yourusername/RadiographyScanner.git
    cd RadiographyScanner
 
-2. Download the model and data files from Google Drive and add them to the project directory. (google drive link:https://drive.google.com/drive/u/1/folders/13gI-HLGJKKXfMI-BNfD0QVouSJ2YEj_F)
+2. Download the model and data files from Google Drive and add them to the project directory. ([google drive link:https://drive.google.com/drive/u/1/folders/13gI-HLGJKKXfMI-BNfD0QVouSJ2YEj_F](https://drive.google.com/drive/folders/13gI-HLGJKKXfMI-BNfD0QVouSJ2YEj_F?usp=sharing))
 3. Install required packages from requirements.txt
 4. run gui.py
